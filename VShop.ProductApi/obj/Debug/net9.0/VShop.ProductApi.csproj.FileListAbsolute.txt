@@ -124,3 +124,4 @@ G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\obj\Debug\net9.0\ref\VShop.
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\AutoMapper.dll
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\obj\Debug\net9.0\VShop.ProductApi.sourcelink.json

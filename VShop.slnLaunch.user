@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VShop.ProductApi\\VShop.ProductApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShopWeb\\VShopWeb.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.IdentityServer\\VShop.IdentityServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

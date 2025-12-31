@@ -497,9 +497,6 @@
             "type": "string",
             "nullable": true
           },
-          "category": {
-            "$ref": "#/components/schemas/Category"
-          },
           "categoryID": {
             "type": "integer",
             "format": "int32"
@@ -542,6 +539,10 @@
           },
           "imageURL": {
             "maxLength": 250,
+            "type": "string",
+            "nullable": true
+          },
+          "categoryName": {
             "type": "string",
             "nullable": true
           },

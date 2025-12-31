@@ -26,6 +26,7 @@ namespace VShop.ProductApi.DTOs
         [MaxLength(250)]
         [DisplayName("Product Image")]
         public string? ImageURL { get; set; }
+        public string? CategoryName { get; set; }
         public Category? Category { get; set; }
         public int CategoryID { get; set; }
     }

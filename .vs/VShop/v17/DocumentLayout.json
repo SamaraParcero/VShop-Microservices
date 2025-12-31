@@ -7,8 +7,152 @@
       "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\seeddatabase\\databaseidentityserverinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\seeddatabase\\databaseidentityserverinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\seeddatabase\\idatabaseseedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\seeddatabase\\idatabaseseedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\migrations\\20251230204318_databaseidentityserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\migrations\\20251230204318_databaseidentityserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\diagnostics\\diagnosticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\diagnostics\\diagnosticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\vshop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\vshop.identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\views\\diagnostics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\views\\diagnostics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\consent\\consentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\consent\\consentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\account\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\account\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.identityserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D5455-56AC-4E13-BD2C-922C2C31162B}|VShop.IdentityServer\\VShop.IdentityServer.csproj|solutionrelative:vshop.identityserver\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\views\\products\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\views\\products\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\views\\products\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|solutionrelative:vshopweb\\models\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A27838EA-5A79-47DB-AE51-65652F176EE9}|VShopWeb\\VShopWeb.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshopweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,18 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +195,6 @@
       "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,16 +203,8 @@
       "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{332A6AAD-9BB2-49ED-B23D-ADAD45F8EB48}|VShop.ProductApi\\VShop.ProductApi.csproj|g:\\projetosgithub\\virtualshop\\vshop\\vshop.productapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,8 +234,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,27 +252,508 @@
               "RelativeDocumentMoniker": "VShopWeb\\Views\\Home\\Index.cshtml",
               "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "VShopWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-29T19:44:52.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VShopWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:38:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDatabaseSeedInitializer.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\SeedDatabase\\IDatabaseSeedInitializer.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\SeedDatabase\\IDatabaseSeedInitializer.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\SeedDatabase\\IDatabaseSeedInitializer.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\SeedDatabase\\IDatabaseSeedInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:50:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseIdentityServerInitializer.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\SeedDatabase\\DatabaseIdentityServerInitializer.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\SeedDatabase\\DatabaseIdentityServerInitializer.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\SeedDatabase\\DatabaseIdentityServerInitializer.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\SeedDatabase\\DatabaseIdentityServerInitializer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:51:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251230204318_DatabaseIdentityServer.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Migrations\\20251230204318_DatabaseIdentityServer.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Migrations\\20251230204318_DatabaseIdentityServer.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Migrations\\20251230204318_DatabaseIdentityServer.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Migrations\\20251230204318_DatabaseIdentityServer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:44:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "VShopWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:22:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Program.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Program.cs",
+              "RelativeToolTip": "VShopWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:09:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "VShopWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "VShopWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T19:23:27.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Program.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Program.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:04:29.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\Home\\HomeController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Home\\HomeController.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:03:08.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:44:13.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestUsers.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\TestUsers.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\TestUsers.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\TestUsers.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\TestUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:38:30.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiagnosticsViewModel.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:33:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Views\\Diagnostics\\Index.cshtml",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Views\\Diagnostics\\Index.cshtml",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Views\\Diagnostics\\Index.cshtml",
+              "RelativeToolTip": "VShop.IdentityServer\\Views\\Diagnostics\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T20:32:32.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsentController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Consent\\ConsentController.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\Consent\\ConsentController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Consent\\ConsentController.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\Consent\\ConsentController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:31:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExternalController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Account\\ExternalController.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\Account\\ExternalController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Account\\ExternalController.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\Account\\ExternalController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:31:16.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VShop.IdentityServer.csproj",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\VShop.IdentityServer.csproj",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\VShop.IdentityServer.csproj",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\VShop.IdentityServer.csproj",
+              "RelativeToolTip": "VShop.IdentityServer\\VShop.IdentityServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T20:28:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAIBJwG8BAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:21:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\appsettings.json",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\appsettings.json",
+              "RelativeToolTip": "VShop.IdentityServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T20:03:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Program.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:01:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Data\\ApplicationUser.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:00:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "VShopWeb\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "VShopWeb\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwDUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T19:26:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Models\\ProductViewModel.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "VShopWeb\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:59:26.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:02:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "VShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeToolTip": "VShop.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:06:29.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\appsettings.json",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\appsettings.json",
+              "RelativeToolTip": "VShop.ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T14:59:55.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "VShopWeb\\Views\\Products\\DeleteProduct.cshtml",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\DeleteProduct.cshtml",
+              "RelativeToolTip": "VShopWeb\\Views\\Products\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T19:33:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Services\\Contracts\\ICategoryService.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "VShopWeb\\Services\\Contracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:25:17.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Services\\CategoryService.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\CategoryService.cs",
+              "RelativeToolTip": "VShopWeb\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T19:22:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Services\\ProductService.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\ProductService.cs",
+              "RelativeToolTip": "VShopWeb\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:07:37.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "VShopWeb\\Views\\Products\\CreateProduct.cshtml",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Products\\CreateProduct.cshtml",
+              "RelativeToolTip": "VShopWeb\\Views\\Products\\CreateProduct.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T19:22:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "VShopWeb\\appsettings.json",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\appsettings.json",
+              "RelativeToolTip": "VShopWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T20:10:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VShop.ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T19:21:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Services\\Contracts\\IProductService.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Services\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "VShopWeb\\Services\\Contracts\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:06:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Models\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "VShopWeb\\Models\\CategoryViewModel.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Models\\CategoryViewModel.cs",
+              "RelativeToolTip": "VShopWeb\\Models\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:01:23.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "VShop.ProductApi\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:07:25.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:10:58.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "VShop.ProductApi\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:21:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "VShopWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "VShopWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-29T19:43:24.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 39,
               "Title": "Error.cshtml",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "VShopWeb\\Views\\Shared\\Error.cshtml",
@@ -157,28 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VShopWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShopWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VShopWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:38:31.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 43,
               "Title": "ProductService.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Services\\ProductService.cs",
@@ -191,20 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Program.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Program.cs",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Program.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T15:01:45.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 44,
               "Title": "IProductService.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Services\\IProductService.cs",
@@ -217,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 40,
               "Title": "Product.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Product.cs",
@@ -230,46 +805,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Properties\\launchSettings.json",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "VShop.ProductApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-29T19:21:53.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\appsettings.json",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\appsettings.json",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\appsettings.json",
-              "RelativeToolTip": "VShop.ProductApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-29T14:59:55.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 41,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Controllers\\ProductsController.cs",
               "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "VShop.ProductApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwCgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T19:17:37.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Controllers\\CategoriesController.cs",
@@ -282,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 45,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Services\\ICategoryService.cs",
@@ -295,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 46,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Services\\CategoryService.cs",
@@ -308,20 +857,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 48,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Repositories\\ICategoryRepository.cs",
               "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "VShop.ProductApi\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T18:20:53.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 47,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Repositories\\CategoryRepository.cs",
@@ -334,20 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "VShop.ProductApi\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:21:31.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 49,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Repositories\\IProductRepository.cs",
@@ -360,33 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "VShop.ProductApi\\DTOs\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:10:58.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "VShop.ProductApi\\DTOs\\ProductDTO.cs",
-              "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "VShop.ProductApi\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:07:25.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 51,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\DTOs\\CategoryDTO.cs",
@@ -399,20 +909,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 52,
               "Title": "20251229153219_SeedProducts.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Migrations\\20251229153219_SeedProducts.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\20251229153219_SeedProducts.cs",
               "ToolTip": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Migrations\\20251229153219_SeedProducts.cs",
               "RelativeToolTip": "VShop.ProductApi\\Migrations\\20251229153219_SeedProducts.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T15:32:22.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 50,
               "Title": "Category.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Category.cs",
@@ -425,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 53,
               "Title": "20251229152703_Initial.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Migrations\\20251229152703_Initial.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Migrations\\20251229152703_Initial.cs",
@@ -438,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 54,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Context\\AppDbContext.cs",
@@ -451,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 55,
               "Title": "VShop.ProductApi.csproj",
               "DocumentMoniker": "G:\\ProjetosGithub\\VirtualShop\\VShop\\VShop.ProductApi\\VShop.ProductApi.csproj",
               "RelativeDocumentMoniker": "VShop.ProductApi\\VShop.ProductApi.csproj",
