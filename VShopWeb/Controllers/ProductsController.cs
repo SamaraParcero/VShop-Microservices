@@ -1,11 +1,15 @@
 ﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using VShopWeb.Models;
+using VShopWeb.Roles;
 using VShopWeb.Services.Contracts;
 
 namespace VShopWeb.Controllers
 {
+    [Authorize(Roles = Role.Admin)]
     public class ProductsController : Controller
     {
         private readonly IProductService _productService;

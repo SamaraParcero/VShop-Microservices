@@ -125,3 +125,11 @@ G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\AutoMapper
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\obj\Debug\net9.0\VShop.ProductApi.sourcelink.json
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\ProjetosGithub\VirtualShop\VShop\VShop.ProductApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

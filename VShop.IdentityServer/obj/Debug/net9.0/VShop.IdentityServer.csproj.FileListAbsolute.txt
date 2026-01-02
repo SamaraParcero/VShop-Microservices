@@ -241,3 +241,4 @@ G:\ProjetosGithub\VirtualShop\VShop\VShop.IdentityServer\obj\Debug\net9.0\VShop.
 G:\ProjetosGithub\VirtualShop\VShop\VShop.IdentityServer\obj\Debug\net9.0\VShop.IdentityServer.genruntimeconfig.cache
 G:\ProjetosGithub\VirtualShop\VShop\VShop.IdentityServer\obj\Debug\net9.0\ref\VShop.IdentityServer.dll
 G:\ProjetosGithub\VirtualShop\VShop\VShop.IdentityServer\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\ProjetosGithub\VirtualShop\VShop\VShop.IdentityServer\bin\Debug\net9.0\keys\is-signing-key-0087CEB0077CB2431C24509D654441A6.json

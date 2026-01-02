@@ -1,10 +1,11 @@
 ﻿using System.Net.Http.Headers;
 using System.Text.Json;
 using VShopWeb.Models;
+using VShopWeb.Services.Contracts;
 
 namespace VShopWeb.Services
 {
-    public class CategoryService
+    public class CategoryService : ICategoryService
     {
         private readonly IHttpClientFactory _clientFactory;
         private readonly JsonSerializerOptions _options;

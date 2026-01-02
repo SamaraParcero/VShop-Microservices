@@ -2,7 +2,7 @@
   "openapi": "3.0.4",
   "info": {
     "title": "VShop.ProductApi",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/api/Categories": {
@@ -424,27 +424,6 @@
   },
   "components": {
     "schemas": {
-      "Category": {
-        "type": "object",
-        "properties": {
-          "categoryId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "products": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Product"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "CategoryDTO": {
         "required": [
           "name"
@@ -459,53 +438,13 @@
             "maxLength": 100,
             "minLength": 3,
             "type": "string"
-          },
-          "products": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Product"
-            },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "Product": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "price": {
-            "type": "number",
-            "format": "double"
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "stock": {
-            "type": "integer",
-            "format": "int64"
-          },
-          "imageURL": {
-            "type": "string",
-            "nullable": true
-          },
-          "categoryID": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false
       },
       "ProductDTO": {
         "required": [
+          "categoryId",
           "description",
           "name",
           "price",
@@ -546,16 +485,26 @@
             "type": "string",
             "nullable": true
           },
-          "category": {
-            "$ref": "#/components/schemas/Category"
-          },
-          "categoryID": {
+          "categoryId": {
             "type": "integer",
             "format": "int32"
           }
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "'Bearer' [space] seu token",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

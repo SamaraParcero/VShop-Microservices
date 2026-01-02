@@ -27,7 +27,8 @@ namespace VShop.ProductApi.DTOs
         [DisplayName("Product Image")]
         public string? ImageURL { get; set; }
         public string? CategoryName { get; set; }
-        public Category? Category { get; set; }
-        public int CategoryID { get; set; }
+        [Required]
+        public int CategoryId { get; set; }
+
     }
 }

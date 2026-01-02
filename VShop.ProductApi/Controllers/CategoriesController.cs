@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using VShop.ProductApi.DTOs;
+using VShop.ProductApi.Roles;
 using VShop.ProductApi.Services;
 
 namespace VShop.ProductApi.Controllers
@@ -18,7 +20,7 @@ namespace VShop.ProductApi.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CategoryDTO>>> Get()
         {
-            var categoriesDto = _categoryService.GetCategories();
+            var categoriesDto = await  _categoryService.GetCategories();
             if(categoriesDto == null)
             {
                 return NotFound("Categories not found");
