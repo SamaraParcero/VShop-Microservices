@@ -13,6 +13,14 @@
       {
         "Path": "VShop.IdentityServer\\VShop.IdentityServer.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "VShop.CartApi\\VShop.CartApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.DiscountApi\\VShop.DiscountApi.csproj",
+        "Action": "Start"
       }
     ]
   }

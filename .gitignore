@@ -37,3 +37,34 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+####################################
+# .NET / Visual Studio
+####################################
+
+# Visual Studio cache
+.vs/
+
+# Build folders
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# Build results
+*.dll
+*.exe
+*.pdb
+
+# ASP.NET Core
+appsettings.Development.json
+aspnetcore-*.json
+
+# Rider / Visual Studio
+*.DotSettings.user
+
+# Logs
+*.log
